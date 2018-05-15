@@ -1,0 +1,487 @@
+/*base.css*/
+
+@font-face {
+	font-family: 'Mplus-Medium';
+	src: url(../fonts/mplus-1c-medium.ttf);
+}
+
+body {
+	font-family: Mplus-Medium;
+}
+
+.title-font{
+	font-size: 25px;
+	padding: 0px 15px;
+}
+
+#head{
+    /*background-color: #444A51;*/
+    background: url(../images/S-header-repeat.jpg) repeat-x;
+    border-width: 0;
+    border-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+#title{
+    background-color: #3E3A39;
+    margin-top:18px;
+    padding:9px 0px 9px 45px;
+}
+
+#title span{
+    color:#FFFFFF;
+    font-size:18px;
+    padding-left: 10px;
+    letter-spacing: 0.1em;
+}
+
+#title img.logout{
+    padding-right: 38px;
+}
+
+.table span.tableView{
+    margin-left:30px;
+}
+
+.table div.graphView{
+    padding: 10px;
+}
+
+.table p.prev{
+    float: right;
+    padding-right: 35px;
+    margin-top: 10px;
+    /*padding-bottom: 20px;*/
+}
+
+p img.arrow{
+  margin-right: 10px;
+  margin-top: -1px;
+  width: 20px;
+}
+
+p.copyright{
+  font-size: 13px;
+}
+
+#footer{
+	position: absolute;
+  color: #ffffff;
+  text-align: right;
+  line-height: 2em;
+	/*bottom: 0;*/
+	padding: 10px 0px 2px 0px;
+	clear: both;
+	background-color: #3E3A39;
+	/*border-bottom: #FFFFFF 4px double;*/
+}
+
+.littlemonitor{
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+
+.non-float{
+	float: none;
+}
+
+.caption{
+	color: #FFFFFF;
+}
+
+.backWhite{
+	background-color: #FFFFFF;
+}
+
+.s-back{
+    background: url(../images/S-header-repeat.jpg) repeat-x;
+}
+
+.font13{
+	font-size: 13px;
+}
+
+.tal{
+  text-align: left;
+}
+
+.fontb{
+  font-weight: bold;
+}
+
+/*テーブルデザイン用*/
+
+.form-group2 {
+    padding: 12px;
+    vertical-align: middle;
+    text-align: left;
+    border-bottom: #999 1px solid;
+    color: #000;
+    background: #D0D7DA;
+    margin: 0;
+}
+
+.pd14{
+	padding: 14px;
+}
+
+.m11{
+	margin-left: -11px;
+  margin-right: -11px;
+}
+
+.mt21{
+  margin-top: 21px;
+}
+
+.mL7{
+    margin-left: 7%;
+}
+
+.mL10-6{
+    margin-left: 10.6%;
+}
+
+.mL5-5{
+  margin-left: 5.5%;
+}
+
+.mL10{
+  margin-left: 10px;
+}
+
+.mL30p{
+  margin-left: 30%;
+}
+
+.mL30{
+  margin-left: 30px;
+}
+
+.mL35{
+  margin-left: 35.333333%;
+}
+
+.mR14{
+  margin-right: 14px;
+}
+
+.mR26{
+  margin-right: 26px;
+}
+
+.mR30{
+  margin-right: 30px;
+}
+
+.m40{
+  margin-top: 40px;
+}
+
+h1{
+    padding: 0.8em;
+    border-left: 7px solid #444A51;
+    border-bottom: 1px dashed #444A51;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.wid30{
+  width: 30%;
+}
+.wid31{
+ width: 200px;
+ }
+ 
+.wid300{
+  width: 300px;
+}
+
+.wid32{
+ width:150px;
+ } 
+ 
+.wid33{
+width:87px;
+}
+
+.wid34{
+width:60px;
+}
+
+.wid35{
+width:68px;
+}
+
+/*メールアドレス欄用*/
+.widM{
+  width: 300px;
+}
+/*閉じ*/
+
+.widqt{
+	width: 25%;
+	display: inline;
+}
+
+.wid12{
+	width: 12%;
+	display: inline;
+}
+
+.wid11{
+  width: 11%;
+  display: inline;
+}
+
+.wid7{
+	width: 7%;
+	display: inline;
+}
+
+.wid5{
+  width: 5%;
+}
+
+.editborderstyle{
+  /*background-color: #ecf0f1 !important;*/
+  border-right:none !important;
+}
+
+.no-border-bottom{
+  border-bottom:none !important;
+}
+
+.voidbackcoler{
+  background-color: #ecf0f1 !important;
+}
+
+.form-cont2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 35px;
+  padding: 5px 15px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #2c3e50;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #9FA2A5;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.form-cont2:focus {
+  border-color: #2c3e50;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(44, 62, 80, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(44, 62, 80, 0.6);
+}
+.form-cont2::-moz-placeholder {
+  color: #acb6c0;
+  opacity: 1;
+}
+.form-cont2:-ms-input-placeholder {
+  color: #acb6c0;
+}
+.form-cont2::-webkit-input-placeholder {
+  color: #acb6c0;
+}
+.form-cont2[disabled],
+.form-cont2[readonly],
+fieldset[disabled] .form-cont2 {
+  background-color: #ecf0f1;
+  opacity: 1;
+}
+.form-cont2[disabled],
+fieldset[disabled] .form-cont2 {
+  cursor: not-allowed;
+}
+textarea.form-cont2 {
+  height: auto;
+  resize: none;
+}
+
+.form-cont3{
+ margin-left: 7px;
+  margin-right: 7px;
+  height: 45px;
+  padding: 5px 15px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #2c3e50;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #9FA2A5;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  }
+
+div.timeline{
+  /*margin-left: 15px;*/
+  margin-left: 128px;
+  /*margin-top: 20px;*/
+  margin-bottom: 60px;
+}
+
+ul.events {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 20px 0;
+}
+
+ul.events li {
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+    background: #eee;
+    border: 1px solid #ddd;
+    color: #707070;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 6px;
+    padding: 3px 0;
+    position: relative;
+    text-align: center;
+}
+
+ul.events li em {
+    color: #aaa;
+    font-weight: normal;
+    font-size: 0.9em;
+}
+
+ul.intervals {
+    list-style-type: none;
+    padding: 0;
+    display: block;
+}
+
+/* The width depends on the number of intervals. For example 100 / 7 = 14.29% -- then subtract a little bit for room for the borders */
+ul.intervals li {
+    border: 1px solid #ccc;
+    color: #999;
+    float: left;
+    font-size: 1.2em;
+    margin: 0;
+    padding: 15px 0;
+    text-align: center;
+    /*width: 1.3%;*/
+    width: 1.49%;
+}
+
+ul.intervals li.first {
+    border-left: 1px solid #ccc;
+}
+
+li.marking{
+  background-color: #A4E2F0;
+}
+
+
+◆CSS
+/* ContentsArea
+-------------------------- */
+#contents {
+    margin: 0 auto;
+    padding: 10px 0 50px 0;
+    width: 100%;
+}
+ 
+p {
+    padding: 7px 0;
+}
+ 
+#open01,
+#open02,
+#open03,
+#open04,
+#open05,
+#open06 {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: absolute;
+}
+ 
+.close_overlay {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-indent: -9999px;
+    position: absolute;
+    background: #000;
+    opacity: 0.5;
+    z-index: 5;
+}
+ 
+.modal_window {
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -200px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    display: block;
+    background: #fff;
+    position: absolute;
+    z-index: 10;
+}
+ 
+.modal_window h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 15px;
+    background: #000;
+}
+/*.modal_window p {
+    padding: 0 15px 15px 15px;
+    font-size: 12px;
+    line-height: 160%;
+    text-align: left;
+}*/
+ 
+.modal_window p {
+    padding: 0 15px 15px 15px;
+    font-size: 15px;
+    line-height: 130%;
+    text-align: left;
+}
+ 
+ 
+/* CSS3 ModalWindow SET
+-------------------------- */
+@-webkit-keyframes modalFadeIn {
+    0% {opacity:0;display:block;}
+    100% {opacity:1;}
+}
+div#modal div:target {
+    -webkit-animation-name: modalFadeIn; 
+    -webkit-animation-duration: 1s;
+    -webkit-animation-iteration-count: 1;
+    opacity: 1;
+    display:block;
+}

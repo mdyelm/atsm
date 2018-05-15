@@ -1,0 +1,1 @@
+ALTER TABLE `units` ADD `number_getdata_false` INT NOT NULL DEFAULT '0' AFTER `date_alive_false`;

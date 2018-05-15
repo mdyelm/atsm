@@ -1,0 +1,3 @@
+ALTER TABLE  `organizations` CHANGE  `organization_name`  `organization_name` VARCHAR( 30 ) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL COMMENT  '組織名';
+ALTER TABLE  `organizations` CHANGE  `position`  `position` VARCHAR( 30 ) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL COMMENT  ' 担当部署';
+ALTER TABLE `users` CHANGE `user_name` `user_name` VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL COMMENT '担当者名';

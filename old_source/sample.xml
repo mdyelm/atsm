@@ -1,0 +1,3806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GraphData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CLIENT_ID>C-001</CLIENT_ID>
+  <CLIENT_NAME>一般社団法人　葛西地震研究所</CLIENT_NAME>
+  <PLACE>葛西観測所－Ａ</PLACE>
+  <ALERT_DIFF_PIX>60</ALERT_DIFF_PIX>
+  <ALERT_DIFF_TIME>60</ALERT_DIFF_TIME>
+  <ALERT_O_INTERVAL>10</ALERT_O_INTERVAL>
+  <ALERT_DATE>2016/04/01 08:13:44</ALERT_DATE>
+  <DATA_LIST>
+    <DATA_ROW>
+      <NO>1</NO>
+      <MES_DATE>2016/04/01 08:12:01</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>2</NO>
+      <MES_DATE>2016/04/01 08:12:02</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>3</NO>
+      <MES_DATE>2016/04/01 08:12:03</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>4</NO>
+      <MES_DATE>2016/04/01 08:12:04</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>5</NO>
+      <MES_DATE>2016/04/01 08:12:05</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>6</NO>
+      <MES_DATE>2016/04/01 08:12:06</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>7</NO>
+      <MES_DATE>2016/04/01 08:12:07</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>8</NO>
+      <MES_DATE>2016/04/01 08:12:08</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>9</NO>
+      <MES_DATE>2016/04/01 08:12:09</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>10</NO>
+      <MES_DATE>2016/04/01 08:12:10</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>11</NO>
+      <MES_DATE>2016/04/01 08:12:11</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>12</NO>
+      <MES_DATE>2016/04/01 08:12:12</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>13</NO>
+      <MES_DATE>2016/04/01 08:12:13</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>14</NO>
+      <MES_DATE>2016/04/01 08:12:14</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>15</NO>
+      <MES_DATE>2016/04/01 08:12:15</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>16</NO>
+      <MES_DATE>2016/04/01 08:12:16</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>17</NO>
+      <MES_DATE>2016/04/01 08:12:17</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>18</NO>
+      <MES_DATE>2016/04/01 08:12:18</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>19</NO>
+      <MES_DATE>2016/04/01 08:12:19</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>20</NO>
+      <MES_DATE>2016/04/01 08:12:20</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>21</NO>
+      <MES_DATE>2016/04/01 08:12:21</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>22</NO>
+      <MES_DATE>2016/04/01 08:12:22</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>23</NO>
+      <MES_DATE>2016/04/01 08:12:23</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>24</NO>
+      <MES_DATE>2016/04/01 08:12:24</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>25</NO>
+      <MES_DATE>2016/04/01 08:12:25</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>26</NO>
+      <MES_DATE>2016/04/01 08:12:26</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>27</NO>
+      <MES_DATE>2016/04/01 08:12:27</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>28</NO>
+      <MES_DATE>2016/04/01 08:12:28</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>29</NO>
+      <MES_DATE>2016/04/01 08:12:29</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>30</NO>
+      <MES_DATE>2016/04/01 08:12:30</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>31</NO>
+      <MES_DATE>2016/04/01 08:12:31</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>32</NO>
+      <MES_DATE>2016/04/01 08:12:32</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>33</NO>
+      <MES_DATE>2016/04/01 08:12:33</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>34</NO>
+      <MES_DATE>2016/04/01 08:12:34</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>35</NO>
+      <MES_DATE>2016/04/01 08:12:35</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>36</NO>
+      <MES_DATE>2016/04/01 08:12:36</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>37</NO>
+      <MES_DATE>2016/04/01 08:12:37</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>38</NO>
+      <MES_DATE>2016/04/01 08:12:38</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>39</NO>
+      <MES_DATE>2016/04/01 08:12:39</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>40</NO>
+      <MES_DATE>2016/04/01 08:12:40</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>41</NO>
+      <MES_DATE>2016/04/01 08:12:41</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>42</NO>
+      <MES_DATE>2016/04/01 08:12:42</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>43</NO>
+      <MES_DATE>2016/04/01 08:12:43</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>44</NO>
+      <MES_DATE>2016/04/01 08:12:44</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>45</NO>
+      <MES_DATE>2016/04/01 08:12:45</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>46</NO>
+      <MES_DATE>2016/04/01 08:12:46</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>47</NO>
+      <MES_DATE>2016/04/01 08:12:47</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>48</NO>
+      <MES_DATE>2016/04/01 08:12:48</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>49</NO>
+      <MES_DATE>2016/04/01 08:12:49</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>50</NO>
+      <MES_DATE>2016/04/01 08:12:50</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>51</NO>
+      <MES_DATE>2016/04/01 08:12:51</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>52</NO>
+      <MES_DATE>2016/04/01 08:12:52</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>53</NO>
+      <MES_DATE>2016/04/01 08:12:53</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>54</NO>
+      <MES_DATE>2016/04/01 08:12:54</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>55</NO>
+      <MES_DATE>2016/04/01 08:12:55</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>56</NO>
+      <MES_DATE>2016/04/01 08:12:56</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>57</NO>
+      <MES_DATE>2016/04/01 08:12:57</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>58</NO>
+      <MES_DATE>2016/04/01 08:12:58</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>59</NO>
+      <MES_DATE>2016/04/01 08:12:59</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>60</NO>
+      <MES_DATE>2016/04/01 08:13:00</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>61</NO>
+      <MES_DATE>2016/04/01 08:13:01</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>62</NO>
+      <MES_DATE>2016/04/01 08:13:02</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>63</NO>
+      <MES_DATE>2016/04/01 08:13:03</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>64</NO>
+      <MES_DATE>2016/04/01 08:13:04</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>65</NO>
+      <MES_DATE>2016/04/01 08:13:05</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>66</NO>
+      <MES_DATE>2016/04/01 08:13:06</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>67</NO>
+      <MES_DATE>2016/04/01 08:13:07</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>68</NO>
+      <MES_DATE>2016/04/01 08:13:08</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>69</NO>
+      <MES_DATE>2016/04/01 08:13:09</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>70</NO>
+      <MES_DATE>2016/04/01 08:13:10</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>71</NO>
+      <MES_DATE>2016/04/01 08:13:11</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>72</NO>
+      <MES_DATE>2016/04/01 08:13:12</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>73</NO>
+      <MES_DATE>2016/04/01 08:13:13</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>74</NO>
+      <MES_DATE>2016/04/01 08:13:14</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>75</NO>
+      <MES_DATE>2016/04/01 08:13:15</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>76</NO>
+      <MES_DATE>2016/04/01 08:13:16</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>77</NO>
+      <MES_DATE>2016/04/01 08:13:17</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>78</NO>
+      <MES_DATE>2016/04/01 08:13:18</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>79</NO>
+      <MES_DATE>2016/04/01 08:13:19</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>80</NO>
+      <MES_DATE>2016/04/01 08:13:20</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>81</NO>
+      <MES_DATE>2016/04/01 08:13:21</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>82</NO>
+      <MES_DATE>2016/04/01 08:13:22</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>83</NO>
+      <MES_DATE>2016/04/01 08:13:23</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>84</NO>
+      <MES_DATE>2016/04/01 08:13:24</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>85</NO>
+      <MES_DATE>2016/04/01 08:13:25</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>86</NO>
+      <MES_DATE>2016/04/01 08:13:26</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>87</NO>
+      <MES_DATE>2016/04/01 08:13:27</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>88</NO>
+      <MES_DATE>2016/04/01 08:13:28</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>89</NO>
+      <MES_DATE>2016/04/01 08:13:29</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>90</NO>
+      <MES_DATE>2016/04/01 08:13:30</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>91</NO>
+      <MES_DATE>2016/04/01 08:13:31</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>92</NO>
+      <MES_DATE>2016/04/01 08:13:32</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>93</NO>
+      <MES_DATE>2016/04/01 08:13:33</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>94</NO>
+      <MES_DATE>2016/04/01 08:13:34</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>95</NO>
+      <MES_DATE>2016/04/01 08:13:35</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>96</NO>
+      <MES_DATE>2016/04/01 08:13:36</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>97</NO>
+      <MES_DATE>2016/04/01 08:13:37</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>98</NO>
+      <MES_DATE>2016/04/01 08:13:38</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>99</NO>
+      <MES_DATE>2016/04/01 08:13:39</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>100</NO>
+      <MES_DATE>2016/04/01 08:13:39</MES_DATE>
+      <DIFF_PIX>40</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>101</NO>
+      <MES_DATE>2016/04/01 08:13:40</MES_DATE>
+      <DIFF_PIX>57</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>102</NO>
+      <MES_DATE>2016/04/01 08:13:41</MES_DATE>
+      <DIFF_PIX>55</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>103</NO>
+      <MES_DATE>2016/04/01 08:13:42</MES_DATE>
+      <DIFF_PIX>42</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>104</NO>
+      <MES_DATE>2016/04/01 08:13:43</MES_DATE>
+      <DIFF_PIX>67</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>105</NO>
+      <MES_DATE>2016/04/01 08:13:44</MES_DATE>
+      <DIFF_PIX>36</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>106</NO>
+      <MES_DATE>2016/04/01 08:13:45</MES_DATE>
+      <DIFF_PIX>63</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>107</NO>
+      <MES_DATE>2016/04/01 08:13:46</MES_DATE>
+      <DIFF_PIX>28</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>108</NO>
+      <MES_DATE>2016/04/01 08:13:47</MES_DATE>
+      <DIFF_PIX>31</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>109</NO>
+      <MES_DATE>2016/04/01 08:13:48</MES_DATE>
+      <DIFF_PIX>27</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>110</NO>
+      <MES_DATE>2016/04/01 08:13:49</MES_DATE>
+      <DIFF_PIX>31</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>111</NO>
+      <MES_DATE>2016/04/01 08:13:50</MES_DATE>
+      <DIFF_PIX>57</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>112</NO>
+      <MES_DATE>2016/04/01 08:13:51</MES_DATE>
+      <DIFF_PIX>23</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>113</NO>
+      <MES_DATE>2016/04/01 08:13:52</MES_DATE>
+      <DIFF_PIX>48</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>114</NO>
+      <MES_DATE>2016/04/01 08:13:53</MES_DATE>
+      <DIFF_PIX>22</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>115</NO>
+      <MES_DATE>2016/04/01 08:13:54</MES_DATE>
+      <DIFF_PIX>53</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>116</NO>
+      <MES_DATE>2016/04/01 08:13:55</MES_DATE>
+      <DIFF_PIX>32</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>117</NO>
+      <MES_DATE>2016/04/01 08:13:56</MES_DATE>
+      <DIFF_PIX>71</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>118</NO>
+      <MES_DATE>2016/04/01 08:13:57</MES_DATE>
+      <DIFF_PIX>47</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>119</NO>
+      <MES_DATE>2016/04/01 08:13:58</MES_DATE>
+      <DIFF_PIX>23</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>120</NO>
+      <MES_DATE>2016/04/01 08:13:59</MES_DATE>
+      <DIFF_PIX>42</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>121</NO>
+      <MES_DATE>2016/04/01 08:14:00</MES_DATE>
+      <DIFF_PIX>47</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>122</NO>
+      <MES_DATE>2016/04/01 08:14:01</MES_DATE>
+      <DIFF_PIX>27</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>123</NO>
+      <MES_DATE>2016/04/01 08:14:02</MES_DATE>
+      <DIFF_PIX>68</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>124</NO>
+      <MES_DATE>2016/04/01 08:14:03</MES_DATE>
+      <DIFF_PIX>66</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>125</NO>
+      <MES_DATE>2016/04/01 08:14:04</MES_DATE>
+      <DIFF_PIX>50</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>126</NO>
+      <MES_DATE>2016/04/01 08:14:05</MES_DATE>
+      <DIFF_PIX>24</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>127</NO>
+      <MES_DATE>2016/04/01 08:14:06</MES_DATE>
+      <DIFF_PIX>56</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>128</NO>
+      <MES_DATE>2016/04/01 08:14:07</MES_DATE>
+      <DIFF_PIX>72</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>129</NO>
+      <MES_DATE>2016/04/01 08:14:08</MES_DATE>
+      <DIFF_PIX>49</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>130</NO>
+      <MES_DATE>2016/04/01 08:14:09</MES_DATE>
+      <DIFF_PIX>72</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>131</NO>
+      <MES_DATE>2016/04/01 08:14:10</MES_DATE>
+      <DIFF_PIX>44</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>132</NO>
+      <MES_DATE>2016/04/01 08:14:11</MES_DATE>
+      <DIFF_PIX>64</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>133</NO>
+      <MES_DATE>2016/04/01 08:14:12</MES_DATE>
+      <DIFF_PIX>60</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>134</NO>
+      <MES_DATE>2016/04/01 08:14:13</MES_DATE>
+      <DIFF_PIX>37</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>135</NO>
+      <MES_DATE>2016/04/01 08:14:14</MES_DATE>
+      <DIFF_PIX>63</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>136</NO>
+      <MES_DATE>2016/04/01 08:14:15</MES_DATE>
+      <DIFF_PIX>42</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>137</NO>
+      <MES_DATE>2016/04/01 08:14:16</MES_DATE>
+      <DIFF_PIX>52</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>138</NO>
+      <MES_DATE>2016/04/01 08:14:17</MES_DATE>
+      <DIFF_PIX>65</DIFF_PIX>
+      <ALERT>5</ALERT>
+      <MONITOR>1</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>139</NO>
+      <MES_DATE>2016/04/01 08:14:18</MES_DATE>
+      <DIFF_PIX>48</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>140</NO>
+      <MES_DATE>2016/04/01 08:14:19</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>141</NO>
+      <MES_DATE>2016/04/01 08:14:20</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>142</NO>
+      <MES_DATE>2016/04/01 08:14:21</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>143</NO>
+      <MES_DATE>2016/04/01 08:14:22</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>144</NO>
+      <MES_DATE>2016/04/01 08:14:23</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>145</NO>
+      <MES_DATE>2016/04/01 08:14:24</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>146</NO>
+      <MES_DATE>2016/04/01 08:14:25</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>147</NO>
+      <MES_DATE>2016/04/01 08:14:26</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>148</NO>
+      <MES_DATE>2016/04/01 08:14:27</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>149</NO>
+      <MES_DATE>2016/04/01 08:14:28</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>150</NO>
+      <MES_DATE>2016/04/01 08:14:29</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>151</NO>
+      <MES_DATE>2016/04/01 08:14:30</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>152</NO>
+      <MES_DATE>2016/04/01 08:14:31</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>153</NO>
+      <MES_DATE>2016/04/01 08:14:32</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>154</NO>
+      <MES_DATE>2016/04/01 08:14:33</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>155</NO>
+      <MES_DATE>2016/04/01 08:14:34</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>156</NO>
+      <MES_DATE>2016/04/01 08:14:35</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>157</NO>
+      <MES_DATE>2016/04/01 08:14:36</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>158</NO>
+      <MES_DATE>2016/04/01 08:14:37</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>159</NO>
+      <MES_DATE>2016/04/01 08:14:38</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>160</NO>
+      <MES_DATE>2016/04/01 08:14:39</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>161</NO>
+      <MES_DATE>2016/04/01 08:14:40</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>162</NO>
+      <MES_DATE>2016/04/01 08:14:41</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>163</NO>
+      <MES_DATE>2016/04/01 08:14:42</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>164</NO>
+      <MES_DATE>2016/04/01 08:14:43</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>165</NO>
+      <MES_DATE>2016/04/01 08:14:44</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>166</NO>
+      <MES_DATE>2016/04/01 08:14:45</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>167</NO>
+      <MES_DATE>2016/04/01 08:14:46</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>168</NO>
+      <MES_DATE>2016/04/01 08:14:47</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>169</NO>
+      <MES_DATE>2016/04/01 08:14:48</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>170</NO>
+      <MES_DATE>2016/04/01 08:14:49</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>171</NO>
+      <MES_DATE>2016/04/01 08:14:50</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>172</NO>
+      <MES_DATE>2016/04/01 08:14:51</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>173</NO>
+      <MES_DATE>2016/04/01 08:14:52</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>174</NO>
+      <MES_DATE>2016/04/01 08:14:53</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>175</NO>
+      <MES_DATE>2016/04/01 08:14:54</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>176</NO>
+      <MES_DATE>2016/04/01 08:14:55</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>177</NO>
+      <MES_DATE>2016/04/01 08:14:56</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>178</NO>
+      <MES_DATE>2016/04/01 08:14:57</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>179</NO>
+      <MES_DATE>2016/04/01 08:14:58</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>180</NO>
+      <MES_DATE>2016/04/01 08:14:59</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>181</NO>
+      <MES_DATE>2016/04/01 08:15:00</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>182</NO>
+      <MES_DATE>2016/04/01 08:15:01</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>183</NO>
+      <MES_DATE>2016/04/01 08:15:02</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>184</NO>
+      <MES_DATE>2016/04/01 08:15:03</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>185</NO>
+      <MES_DATE>2016/04/01 08:15:04</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>186</NO>
+      <MES_DATE>2016/04/01 08:15:05</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>187</NO>
+      <MES_DATE>2016/04/01 08:15:06</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>188</NO>
+      <MES_DATE>2016/04/01 08:15:07</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>189</NO>
+      <MES_DATE>2016/04/01 08:15:08</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>190</NO>
+      <MES_DATE>2016/04/01 08:15:09</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>191</NO>
+      <MES_DATE>2016/04/01 08:15:10</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>192</NO>
+      <MES_DATE>2016/04/01 08:15:11</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>193</NO>
+      <MES_DATE>2016/04/01 08:15:12</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>194</NO>
+      <MES_DATE>2016/04/01 08:15:13</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>195</NO>
+      <MES_DATE>2016/04/01 08:15:14</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>196</NO>
+      <MES_DATE>2016/04/01 08:15:15</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>197</NO>
+      <MES_DATE>2016/04/01 08:15:16</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>198</NO>
+      <MES_DATE>2016/04/01 08:15:17</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>199</NO>
+      <MES_DATE>2016/04/01 08:15:18</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>200</NO>
+      <MES_DATE>2016/04/01 08:15:19</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>201</NO>
+      <MES_DATE>2016/04/01 08:15:20</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>202</NO>
+      <MES_DATE>2016/04/01 08:15:21</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>203</NO>
+      <MES_DATE>2016/04/01 08:15:22</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>204</NO>
+      <MES_DATE>2016/04/01 08:15:23</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>205</NO>
+      <MES_DATE>2016/04/01 08:15:24</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>206</NO>
+      <MES_DATE>2016/04/01 08:15:25</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>207</NO>
+      <MES_DATE>2016/04/01 08:15:26</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>208</NO>
+      <MES_DATE>2016/04/01 08:15:27</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>209</NO>
+      <MES_DATE>2016/04/01 08:15:28</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>210</NO>
+      <MES_DATE>2016/04/01 08:15:29</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>211</NO>
+      <MES_DATE>2016/04/01 08:15:30</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>212</NO>
+      <MES_DATE>2016/04/01 08:15:31</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>213</NO>
+      <MES_DATE>2016/04/01 08:15:32</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>214</NO>
+      <MES_DATE>2016/04/01 08:15:33</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>215</NO>
+      <MES_DATE>2016/04/01 08:15:34</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>216</NO>
+      <MES_DATE>2016/04/01 08:15:35</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>217</NO>
+      <MES_DATE>2016/04/01 08:15:36</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>218</NO>
+      <MES_DATE>2016/04/01 08:15:37</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>219</NO>
+      <MES_DATE>2016/04/01 08:15:38</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>220</NO>
+      <MES_DATE>2016/04/01 08:15:39</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>221</NO>
+      <MES_DATE>2016/04/01 08:15:40</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>222</NO>
+      <MES_DATE>2016/04/01 08:15:41</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>223</NO>
+      <MES_DATE>2016/04/01 08:15:42</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>224</NO>
+      <MES_DATE>2016/04/01 08:15:43</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>225</NO>
+      <MES_DATE>2016/04/01 08:15:44</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>226</NO>
+      <MES_DATE>2016/04/01 08:15:45</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>227</NO>
+      <MES_DATE>2016/04/01 08:15:46</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>228</NO>
+      <MES_DATE>2016/04/01 08:15:47</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>229</NO>
+      <MES_DATE>2016/04/01 08:15:48</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>230</NO>
+      <MES_DATE>2016/04/01 08:15:49</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>231</NO>
+      <MES_DATE>2016/04/01 08:15:50</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>232</NO>
+      <MES_DATE>2016/04/01 08:15:51</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>233</NO>
+      <MES_DATE>2016/04/01 08:15:52</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>234</NO>
+      <MES_DATE>2016/04/01 08:15:53</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>235</NO>
+      <MES_DATE>2016/04/01 08:15:54</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>236</NO>
+      <MES_DATE>2016/04/01 08:15:55</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>237</NO>
+      <MES_DATE>2016/04/01 08:15:56</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>238</NO>
+      <MES_DATE>2016/04/01 08:15:57</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>239</NO>
+      <MES_DATE>2016/04/01 08:15:58</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>240</NO>
+      <MES_DATE>2016/04/01 08:15:59</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>241</NO>
+      <MES_DATE>2016/04/01 08:16:00</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>242</NO>
+      <MES_DATE>2016/04/01 08:16:01</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>243</NO>
+      <MES_DATE>2016/04/01 08:16:02</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>244</NO>
+      <MES_DATE>2016/04/01 08:16:03</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>245</NO>
+      <MES_DATE>2016/04/01 08:16:04</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>246</NO>
+      <MES_DATE>2016/04/01 08:16:05</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>247</NO>
+      <MES_DATE>2016/04/01 08:16:06</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>248</NO>
+      <MES_DATE>2016/04/01 08:16:07</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>249</NO>
+      <MES_DATE>2016/04/01 08:16:08</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>250</NO>
+      <MES_DATE>2016/04/01 08:16:09</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>251</NO>
+      <MES_DATE>2016/04/01 08:16:10</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>252</NO>
+      <MES_DATE>2016/04/01 08:16:11</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>253</NO>
+      <MES_DATE>2016/04/01 08:16:12</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>254</NO>
+      <MES_DATE>2016/04/01 08:16:13</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>255</NO>
+      <MES_DATE>2016/04/01 08:16:14</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>256</NO>
+      <MES_DATE>2016/04/01 08:16:15</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>257</NO>
+      <MES_DATE>2016/04/01 08:16:16</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>258</NO>
+      <MES_DATE>2016/04/01 08:16:17</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>259</NO>
+      <MES_DATE>2016/04/01 08:16:18</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>260</NO>
+      <MES_DATE>2016/04/01 08:16:19</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>261</NO>
+      <MES_DATE>2016/04/01 08:16:20</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>262</NO>
+      <MES_DATE>2016/04/01 08:16:21</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>263</NO>
+      <MES_DATE>2016/04/01 08:16:22</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>264</NO>
+      <MES_DATE>2016/04/01 08:16:23</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>265</NO>
+      <MES_DATE>2016/04/01 08:16:24</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>266</NO>
+      <MES_DATE>2016/04/01 08:16:25</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>267</NO>
+      <MES_DATE>2016/04/01 08:16:26</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>268</NO>
+      <MES_DATE>2016/04/01 08:16:27</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>269</NO>
+      <MES_DATE>2016/04/01 08:16:28</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>270</NO>
+      <MES_DATE>2016/04/01 08:16:29</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>271</NO>
+      <MES_DATE>2016/04/01 08:16:30</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>272</NO>
+      <MES_DATE>2016/04/01 08:16:31</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>273</NO>
+      <MES_DATE>2016/04/01 08:16:32</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>274</NO>
+      <MES_DATE>2016/04/01 08:16:33</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>275</NO>
+      <MES_DATE>2016/04/01 08:16:34</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>276</NO>
+      <MES_DATE>2016/04/01 08:16:35</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>277</NO>
+      <MES_DATE>2016/04/01 08:16:36</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>278</NO>
+      <MES_DATE>2016/04/01 08:16:37</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>279</NO>
+      <MES_DATE>2016/04/01 08:16:38</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>280</NO>
+      <MES_DATE>2016/04/01 08:16:39</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>281</NO>
+      <MES_DATE>2016/04/01 08:16:40</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>282</NO>
+      <MES_DATE>2016/04/01 08:16:41</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>283</NO>
+      <MES_DATE>2016/04/01 08:16:42</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>284</NO>
+      <MES_DATE>2016/04/01 08:16:43</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>285</NO>
+      <MES_DATE>2016/04/01 08:16:44</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>286</NO>
+      <MES_DATE>2016/04/01 08:16:45</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>287</NO>
+      <MES_DATE>2016/04/01 08:16:46</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>288</NO>
+      <MES_DATE>2016/04/01 08:16:47</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>289</NO>
+      <MES_DATE>2016/04/01 08:16:48</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>290</NO>
+      <MES_DATE>2016/04/01 08:16:49</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>291</NO>
+      <MES_DATE>2016/04/01 08:16:50</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>292</NO>
+      <MES_DATE>2016/04/01 08:16:51</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>293</NO>
+      <MES_DATE>2016/04/01 08:16:52</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>294</NO>
+      <MES_DATE>2016/04/01 08:16:53</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>295</NO>
+      <MES_DATE>2016/04/01 08:16:54</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>296</NO>
+      <MES_DATE>2016/04/01 08:16:55</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>297</NO>
+      <MES_DATE>2016/04/01 08:16:56</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>298</NO>
+      <MES_DATE>2016/04/01 08:16:57</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>299</NO>
+      <MES_DATE>2016/04/01 08:16:58</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>300</NO>
+      <MES_DATE>2016/04/01 08:16:58</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>301</NO>
+      <MES_DATE>2016/04/01 08:16:59</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>302</NO>
+      <MES_DATE>2016/04/01 08:17:00</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>303</NO>
+      <MES_DATE>2016/04/01 08:17:01</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>304</NO>
+      <MES_DATE>2016/04/01 08:17:02</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>305</NO>
+      <MES_DATE>2016/04/01 08:17:03</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>306</NO>
+      <MES_DATE>2016/04/01 08:17:04</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>307</NO>
+      <MES_DATE>2016/04/01 08:17:05</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>308</NO>
+      <MES_DATE>2016/04/01 08:17:06</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>309</NO>
+      <MES_DATE>2016/04/01 08:17:07</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>310</NO>
+      <MES_DATE>2016/04/01 08:17:08</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>311</NO>
+      <MES_DATE>2016/04/01 08:17:09</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>312</NO>
+      <MES_DATE>2016/04/01 08:17:10</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>313</NO>
+      <MES_DATE>2016/04/01 08:17:11</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>314</NO>
+      <MES_DATE>2016/04/01 08:17:12</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>315</NO>
+      <MES_DATE>2016/04/01 08:17:13</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>316</NO>
+      <MES_DATE>2016/04/01 08:17:14</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>317</NO>
+      <MES_DATE>2016/04/01 08:17:15</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>318</NO>
+      <MES_DATE>2016/04/01 08:17:16</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>319</NO>
+      <MES_DATE>2016/04/01 08:17:17</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>320</NO>
+      <MES_DATE>2016/04/01 08:17:18</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>321</NO>
+      <MES_DATE>2016/04/01 08:17:19</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>322</NO>
+      <MES_DATE>2016/04/01 08:17:20</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>323</NO>
+      <MES_DATE>2016/04/01 08:17:21</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>324</NO>
+      <MES_DATE>2016/04/01 08:17:22</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>325</NO>
+      <MES_DATE>2016/04/01 08:17:23</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>326</NO>
+      <MES_DATE>2016/04/01 08:17:24</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>327</NO>
+      <MES_DATE>2016/04/01 08:17:25</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>328</NO>
+      <MES_DATE>2016/04/01 08:17:26</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>329</NO>
+      <MES_DATE>2016/04/01 08:17:27</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>330</NO>
+      <MES_DATE>2016/04/01 08:17:28</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>331</NO>
+      <MES_DATE>2016/04/01 08:17:29</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>332</NO>
+      <MES_DATE>2016/04/01 08:17:30</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>333</NO>
+      <MES_DATE>2016/04/01 08:17:31</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>334</NO>
+      <MES_DATE>2016/04/01 08:17:32</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>335</NO>
+      <MES_DATE>2016/04/01 08:17:33</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>336</NO>
+      <MES_DATE>2016/04/01 08:17:34</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>337</NO>
+      <MES_DATE>2016/04/01 08:17:35</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>338</NO>
+      <MES_DATE>2016/04/01 08:17:36</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>339</NO>
+      <MES_DATE>2016/04/01 08:17:37</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>340</NO>
+      <MES_DATE>2016/04/01 08:17:38</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>341</NO>
+      <MES_DATE>2016/04/01 08:17:39</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>342</NO>
+      <MES_DATE>2016/04/01 08:17:40</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>343</NO>
+      <MES_DATE>2016/04/01 08:17:41</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>344</NO>
+      <MES_DATE>2016/04/01 08:17:42</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>345</NO>
+      <MES_DATE>2016/04/01 08:17:43</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>346</NO>
+      <MES_DATE>2016/04/01 08:17:44</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>347</NO>
+      <MES_DATE>2016/04/01 08:17:45</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>348</NO>
+      <MES_DATE>2016/04/01 08:17:46</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>349</NO>
+      <MES_DATE>2016/04/01 08:17:47</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>350</NO>
+      <MES_DATE>2016/04/01 08:17:48</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>351</NO>
+      <MES_DATE>2016/04/01 08:17:49</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>352</NO>
+      <MES_DATE>2016/04/01 08:17:50</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>353</NO>
+      <MES_DATE>2016/04/01 08:17:51</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>354</NO>
+      <MES_DATE>2016/04/01 08:17:52</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>355</NO>
+      <MES_DATE>2016/04/01 08:17:53</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>356</NO>
+      <MES_DATE>2016/04/01 08:17:54</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>357</NO>
+      <MES_DATE>2016/04/01 08:17:55</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>358</NO>
+      <MES_DATE>2016/04/01 08:17:56</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>359</NO>
+      <MES_DATE>2016/04/01 08:17:57</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>360</NO>
+      <MES_DATE>2016/04/01 08:17:58</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>361</NO>
+      <MES_DATE>2016/04/01 08:17:59</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>362</NO>
+      <MES_DATE>2016/04/01 08:18:00</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>363</NO>
+      <MES_DATE>2016/04/01 08:18:01</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>364</NO>
+      <MES_DATE>2016/04/01 08:18:02</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>365</NO>
+      <MES_DATE>2016/04/01 08:18:03</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>366</NO>
+      <MES_DATE>2016/04/01 08:18:04</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>367</NO>
+      <MES_DATE>2016/04/01 08:18:05</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>368</NO>
+      <MES_DATE>2016/04/01 08:18:06</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>369</NO>
+      <MES_DATE>2016/04/01 08:18:07</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>370</NO>
+      <MES_DATE>2016/04/01 08:18:08</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>371</NO>
+      <MES_DATE>2016/04/01 08:18:09</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>372</NO>
+      <MES_DATE>2016/04/01 08:18:10</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>373</NO>
+      <MES_DATE>2016/04/01 08:18:11</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>374</NO>
+      <MES_DATE>2016/04/01 08:18:12</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>375</NO>
+      <MES_DATE>2016/04/01 08:18:13</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>376</NO>
+      <MES_DATE>2016/04/01 08:18:14</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>377</NO>
+      <MES_DATE>2016/04/01 08:18:15</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>378</NO>
+      <MES_DATE>2016/04/01 08:18:16</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>379</NO>
+      <MES_DATE>2016/04/01 08:18:17</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>380</NO>
+      <MES_DATE>2016/04/01 08:18:18</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>381</NO>
+      <MES_DATE>2016/04/01 08:18:19</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>382</NO>
+      <MES_DATE>2016/04/01 08:18:20</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>383</NO>
+      <MES_DATE>2016/04/01 08:18:21</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>384</NO>
+      <MES_DATE>2016/04/01 08:18:22</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>385</NO>
+      <MES_DATE>2016/04/01 08:18:23</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>386</NO>
+      <MES_DATE>2016/04/01 08:18:24</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>387</NO>
+      <MES_DATE>2016/04/01 08:18:25</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>388</NO>
+      <MES_DATE>2016/04/01 08:18:26</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>389</NO>
+      <MES_DATE>2016/04/01 08:18:27</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>390</NO>
+      <MES_DATE>2016/04/01 08:18:28</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>391</NO>
+      <MES_DATE>2016/04/01 08:18:29</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>392</NO>
+      <MES_DATE>2016/04/01 08:18:30</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>393</NO>
+      <MES_DATE>2016/04/01 08:18:31</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>394</NO>
+      <MES_DATE>2016/04/01 08:18:32</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>395</NO>
+      <MES_DATE>2016/04/01 08:18:33</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>396</NO>
+      <MES_DATE>2016/04/01 08:18:34</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>397</NO>
+      <MES_DATE>2016/04/01 08:18:35</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>398</NO>
+      <MES_DATE>2016/04/01 08:18:36</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>399</NO>
+      <MES_DATE>2016/04/01 08:18:37</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>400</NO>
+      <MES_DATE>2016/04/01 08:18:38</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>401</NO>
+      <MES_DATE>2016/04/01 08:18:39</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>402</NO>
+      <MES_DATE>2016/04/01 08:18:40</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>403</NO>
+      <MES_DATE>2016/04/01 08:18:41</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>404</NO>
+      <MES_DATE>2016/04/01 08:18:42</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>405</NO>
+      <MES_DATE>2016/04/01 08:18:43</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>406</NO>
+      <MES_DATE>2016/04/01 08:18:44</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>407</NO>
+      <MES_DATE>2016/04/01 08:18:45</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>408</NO>
+      <MES_DATE>2016/04/01 08:18:46</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>409</NO>
+      <MES_DATE>2016/04/01 08:18:47</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>410</NO>
+      <MES_DATE>2016/04/01 08:18:48</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>411</NO>
+      <MES_DATE>2016/04/01 08:18:49</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>412</NO>
+      <MES_DATE>2016/04/01 08:18:50</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>413</NO>
+      <MES_DATE>2016/04/01 08:18:51</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>414</NO>
+      <MES_DATE>2016/04/01 08:18:52</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>415</NO>
+      <MES_DATE>2016/04/01 08:18:53</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>416</NO>
+      <MES_DATE>2016/04/01 08:18:54</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>417</NO>
+      <MES_DATE>2016/04/01 08:18:55</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>418</NO>
+      <MES_DATE>2016/04/01 08:18:56</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>419</NO>
+      <MES_DATE>2016/04/01 08:18:57</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>420</NO>
+      <MES_DATE>2016/04/01 08:18:58</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>421</NO>
+      <MES_DATE>2016/04/01 08:18:59</MES_DATE>
+      <DIFF_PIX>19</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>422</NO>
+      <MES_DATE>2016/04/01 08:19:00</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>423</NO>
+      <MES_DATE>2016/04/01 08:19:01</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>424</NO>
+      <MES_DATE>2016/04/01 08:19:02</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>425</NO>
+      <MES_DATE>2016/04/01 08:19:03</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>426</NO>
+      <MES_DATE>2016/04/01 08:19:04</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>427</NO>
+      <MES_DATE>2016/04/01 08:19:05</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>428</NO>
+      <MES_DATE>2016/04/01 08:19:06</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>429</NO>
+      <MES_DATE>2016/04/01 08:19:07</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>430</NO>
+      <MES_DATE>2016/04/01 08:19:08</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>431</NO>
+      <MES_DATE>2016/04/01 08:19:09</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>432</NO>
+      <MES_DATE>2016/04/01 08:19:10</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>433</NO>
+      <MES_DATE>2016/04/01 08:19:11</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>434</NO>
+      <MES_DATE>2016/04/01 08:19:12</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>435</NO>
+      <MES_DATE>2016/04/01 08:19:13</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>436</NO>
+      <MES_DATE>2016/04/01 08:19:14</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>437</NO>
+      <MES_DATE>2016/04/01 08:19:15</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>438</NO>
+      <MES_DATE>2016/04/01 08:19:16</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>439</NO>
+      <MES_DATE>2016/04/01 08:19:17</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>440</NO>
+      <MES_DATE>2016/04/01 08:19:18</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>441</NO>
+      <MES_DATE>2016/04/01 08:19:19</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>442</NO>
+      <MES_DATE>2016/04/01 08:19:20</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>443</NO>
+      <MES_DATE>2016/04/01 08:19:21</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>444</NO>
+      <MES_DATE>2016/04/01 08:19:22</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>445</NO>
+      <MES_DATE>2016/04/01 08:19:23</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>446</NO>
+      <MES_DATE>2016/04/01 08:19:24</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>447</NO>
+      <MES_DATE>2016/04/01 08:19:25</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>448</NO>
+      <MES_DATE>2016/04/01 08:19:26</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>449</NO>
+      <MES_DATE>2016/04/01 08:19:27</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>450</NO>
+      <MES_DATE>2016/04/01 08:19:28</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>451</NO>
+      <MES_DATE>2016/04/01 08:19:29</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>452</NO>
+      <MES_DATE>2016/04/01 08:19:30</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>453</NO>
+      <MES_DATE>2016/04/01 08:19:31</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>454</NO>
+      <MES_DATE>2016/04/01 08:19:32</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>455</NO>
+      <MES_DATE>2016/04/01 08:19:33</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>456</NO>
+      <MES_DATE>2016/04/01 08:19:34</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>457</NO>
+      <MES_DATE>2016/04/01 08:19:35</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>458</NO>
+      <MES_DATE>2016/04/01 08:19:36</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>459</NO>
+      <MES_DATE>2016/04/01 08:19:37</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>460</NO>
+      <MES_DATE>2016/04/01 08:19:38</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>461</NO>
+      <MES_DATE>2016/04/01 08:19:39</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>462</NO>
+      <MES_DATE>2016/04/01 08:19:40</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>463</NO>
+      <MES_DATE>2016/04/01 08:19:41</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>464</NO>
+      <MES_DATE>2016/04/01 08:19:42</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>465</NO>
+      <MES_DATE>2016/04/01 08:19:43</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>466</NO>
+      <MES_DATE>2016/04/01 08:19:44</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>467</NO>
+      <MES_DATE>2016/04/01 08:19:45</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>468</NO>
+      <MES_DATE>2016/04/01 08:19:46</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>469</NO>
+      <MES_DATE>2016/04/01 08:19:47</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>470</NO>
+      <MES_DATE>2016/04/01 08:19:48</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>471</NO>
+      <MES_DATE>2016/04/01 08:19:49</MES_DATE>
+      <DIFF_PIX>12</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>472</NO>
+      <MES_DATE>2016/04/01 08:19:50</MES_DATE>
+      <DIFF_PIX>5</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>473</NO>
+      <MES_DATE>2016/04/01 08:19:51</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>474</NO>
+      <MES_DATE>2016/04/01 08:19:52</MES_DATE>
+      <DIFF_PIX>7</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>475</NO>
+      <MES_DATE>2016/04/01 08:19:53</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>476</NO>
+      <MES_DATE>2016/04/01 08:19:54</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>477</NO>
+      <MES_DATE>2016/04/01 08:19:55</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>478</NO>
+      <MES_DATE>2016/04/01 08:19:56</MES_DATE>
+      <DIFF_PIX>14</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>479</NO>
+      <MES_DATE>2016/04/01 08:19:57</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>480</NO>
+      <MES_DATE>2016/04/01 08:19:58</MES_DATE>
+      <DIFF_PIX>8</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>481</NO>
+      <MES_DATE>2016/04/01 08:19:59</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>482</NO>
+      <MES_DATE>2016/04/01 08:20:00</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>483</NO>
+      <MES_DATE>2016/04/01 08:20:01</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>484</NO>
+      <MES_DATE>2016/04/01 08:20:02</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>485</NO>
+      <MES_DATE>2016/04/01 08:20:03</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>486</NO>
+      <MES_DATE>2016/04/01 08:20:04</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>487</NO>
+      <MES_DATE>2016/04/01 08:20:05</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>488</NO>
+      <MES_DATE>2016/04/01 08:20:06</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>489</NO>
+      <MES_DATE>2016/04/01 08:20:07</MES_DATE>
+      <DIFF_PIX>17</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>490</NO>
+      <MES_DATE>2016/04/01 08:20:08</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>491</NO>
+      <MES_DATE>2016/04/01 08:20:09</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>492</NO>
+      <MES_DATE>2016/04/01 08:20:10</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>493</NO>
+      <MES_DATE>2016/04/01 08:20:11</MES_DATE>
+      <DIFF_PIX>18</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>494</NO>
+      <MES_DATE>2016/04/01 08:20:12</MES_DATE>
+      <DIFF_PIX>6</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>495</NO>
+      <MES_DATE>2016/04/01 08:20:13</MES_DATE>
+      <DIFF_PIX>10</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>496</NO>
+      <MES_DATE>2016/04/01 08:20:14</MES_DATE>
+      <DIFF_PIX>15</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>497</NO>
+      <MES_DATE>2016/04/01 08:20:15</MES_DATE>
+      <DIFF_PIX>11</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>498</NO>
+      <MES_DATE>2016/04/01 08:20:16</MES_DATE>
+      <DIFF_PIX>16</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>499</NO>
+      <MES_DATE>2016/04/01 08:20:17</MES_DATE>
+      <DIFF_PIX>13</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>500</NO>
+      <MES_DATE>2016/04/01 08:20:18</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>501</NO>
+      <MES_DATE>2016/04/01 08:20:19</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>502</NO>
+      <MES_DATE>2016/04/01 08:20:20</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>503</NO>
+      <MES_DATE>2016/04/01 08:20:21</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>504</NO>
+      <MES_DATE>2016/04/01 08:20:22</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>505</NO>
+      <MES_DATE>2016/04/01 08:20:23</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>506</NO>
+      <MES_DATE>2016/04/01 08:20:24</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>507</NO>
+      <MES_DATE>2016/04/01 08:20:25</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>508</NO>
+      <MES_DATE>2016/04/01 08:20:26</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>509</NO>
+      <MES_DATE>2016/04/01 08:20:27</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>510</NO>
+      <MES_DATE>2016/04/01 08:20:28</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>511</NO>
+      <MES_DATE>2016/04/01 08:20:29</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>512</NO>
+      <MES_DATE>2016/04/01 08:20:30</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>513</NO>
+      <MES_DATE>2016/04/01 08:20:31</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>514</NO>
+      <MES_DATE>2016/04/01 08:20:32</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>515</NO>
+      <MES_DATE>2016/04/01 08:20:33</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>516</NO>
+      <MES_DATE>2016/04/01 08:20:34</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>517</NO>
+      <MES_DATE>2016/04/01 08:20:35</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>518</NO>
+      <MES_DATE>2016/04/01 08:20:36</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>519</NO>
+      <MES_DATE>2016/04/01 08:20:37</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>520</NO>
+      <MES_DATE>2016/04/01 08:20:38</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>521</NO>
+      <MES_DATE>2016/04/01 08:20:39</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>522</NO>
+      <MES_DATE>2016/04/01 08:20:40</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>523</NO>
+      <MES_DATE>2016/04/01 08:20:41</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>524</NO>
+      <MES_DATE>2016/04/01 08:20:42</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>525</NO>
+      <MES_DATE>2016/04/01 08:20:43</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>526</NO>
+      <MES_DATE>2016/04/01 08:20:44</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>527</NO>
+      <MES_DATE>2016/04/01 08:20:45</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>528</NO>
+      <MES_DATE>2016/04/01 08:20:46</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>529</NO>
+      <MES_DATE>2016/04/01 08:20:47</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>530</NO>
+      <MES_DATE>2016/04/01 08:20:48</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>531</NO>
+      <MES_DATE>2016/04/01 08:20:49</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>532</NO>
+      <MES_DATE>2016/04/01 08:20:50</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>533</NO>
+      <MES_DATE>2016/04/01 08:20:51</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>534</NO>
+      <MES_DATE>2016/04/01 08:20:52</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>535</NO>
+      <MES_DATE>2016/04/01 08:20:53</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>536</NO>
+      <MES_DATE>2016/04/01 08:20:54</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>537</NO>
+      <MES_DATE>2016/04/01 08:20:55</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>538</NO>
+      <MES_DATE>2016/04/01 08:20:56</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>539</NO>
+      <MES_DATE>2016/04/01 08:20:57</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>540</NO>
+      <MES_DATE>2016/04/01 08:20:58</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>541</NO>
+      <MES_DATE>2016/04/01 08:20:59</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+    <DATA_ROW>
+      <NO>542</NO>
+      <MES_DATE>2016/04/01 08:21:00</MES_DATE>
+      <DIFF_PIX>9</DIFF_PIX>
+      <ALERT>0</ALERT>
+      <MONITOR>0</MONITOR>
+    </DATA_ROW>
+  </DATA_LIST>
+</GraphData>

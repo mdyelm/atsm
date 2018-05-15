@@ -1,0 +1,1 @@
+﻿ALTER TABLE `units` ADD `date_alive_false` TIMESTAMP NULL DEFAULT NULL AFTER `del_date`;

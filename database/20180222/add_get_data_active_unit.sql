@@ -1,0 +1,1 @@
+﻿ALTER TABLE `units` ADD `get_data_active` INT NOT NULL AFTER `number_getdata_false`;

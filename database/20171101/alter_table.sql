@@ -1,0 +1,1 @@
+ALTER TABLE `units` CHANGE `status` `status` INT(1) NOT NULL DEFAULT '0' COMMENT ' 稼働状況ステータス';

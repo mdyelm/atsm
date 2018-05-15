@@ -1,0 +1,1 @@
+ALTER TABLE `licenses` CHANGE `status` `status` INT(1) NOT NULL COMMENT 'ライセンスステータス';

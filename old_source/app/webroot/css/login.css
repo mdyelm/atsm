@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 26, 2016, 1:45:35 PM
+    Author     : user
+*/
+
+.login_main_contents {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 800px;
+    height: 720px;
+    background-image: url(../images/backgrounds/login.jpg);
+}
+
+.login_main_contents img.login_title{
+    padding-top: 140px;
+    padding-left: 293px;
+}
+
+.login_main_contents img.login_bar{
+    padding-top: 13px;
+    padding-left: 80px;
+}
+
+.login_main_contents img.enter_title{
+    margin-left: 226px;
+    margin-top: 40px;
+}
+
+.login_main_contents img.forget_title{
+    margin-left: 242px;
+    margin-top: 40px;
+}
+
+.login_main_contents .done_title{
+    position: relative; 
+    margin-left: -50px; 
+    width: inherit; 
+    text-align: center; 
+    top: 50px;
+}
+
+.login_main_contents div.login_form {
+    width: 400px;
+    padding: 0px 50px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.login_main_contents div.login_form p{
+    padding: 5px 0px;
+}
+
+.login_main_contents div.login_form .input_field{
+    width: 100%;
+    font-size: 22px;
+}
+
+.login_main_contents div.login_form .btnDiv{
+    text-align:center;
+    margin: 10px auto;
+}
+
+.login_main_contents div.login_form .btnDiv input[type="image"],
+.login_main_contents div.login_form .btnDiv img{
+    vertical-align: middle;
+}
+
+.login_main_contents div.login_form .btnDiv input[type="image"].forget_send{
+    margin-top: 20px;
+}
+
+.login_main_contents .copyright {
+    position: absolute;
+    padding-right: 30px;
+    top: 745px;
+    width: inherit;
+    text-align: center;
+}

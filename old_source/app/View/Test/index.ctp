@@ -1,0 +1,1 @@
+<a href="<?php echo $this->Html->url(array("controller" => $this->name, "action" => "extract_zip")) ?>">Click me</a>

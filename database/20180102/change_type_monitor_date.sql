@@ -1,0 +1,1 @@
+ALTER TABLE  `monitoring_logs` CHANGE  `monitor_date`  `monitor_date` TEXT NOT NULL ;

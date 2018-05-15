@@ -1,0 +1,47 @@
+language: php
+
+php:
+  - 5.3
+  - 5.4
+  - 5.5
+
+env:
+  - DB=mysql CAKEPHP=master
+  - DB=mysql CAKEPHP=2.5.6
+  - DB=mysql CAKEPHP=2.6
+
+before_script:
+  - composer install --dev
+  - sh -c "if [ '$DB' = 'mysql' ]; then mysql -e 'CREATE DATABASE cakephp_test;'; fi"
+  - git clone git://github.com/cakephp/cakephp ../cakephp && cd ../cakephp && git checkout $CAKEPHP
+  - cp -R ../TransitionComponent ./app/Plugin/Transition
+  - chmod -R 777 ./app/tmp
+  - echo "<?php
+    CakePlugin::loadAll();
+    ini_set('include_path',  '/home/travis/build/hiromi2424/TransitionComponent/vendor/phpunit/phpunit' . PATH_SEPARATOR . ini_get('include_path'));
+    " > ./app/Config/bootstrap.php
+  - echo "<?php
+    class DATABASE_CONFIG {
+    public \$default = array(
+      'datasource' => 'Database/Mysql',
+      'persistent' => false,
+      'host' => '0.0.0.0',
+      'login' => 'root',
+      'password' => '',
+      'database' => 'cakephp_test',
+      'prefix' => ''
+    );
+    public \$test = array(
+      'datasource' => 'Database/Mysql',
+      'persistent' => false,
+      'host' => '0.0.0.0',
+      'login' => 'root',
+      'password' => '',
+      'database' => 'cakephp_test',
+      'prefix' => '',
+      'encoding' => 'utf8'
+    );
+    }" > ./app/Config/database.php
+
+script:
+  - ./lib/Cake/Console/cake test Transition Controller/Component/TransitionComponent --stderr

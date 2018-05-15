@@ -1,0 +1,127 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 27, 2016, 10:32:33 AM
+    Author     : user
+*/
+html,
+body {
+    margin:0;
+    padding:0;
+    height:100%;
+    min-width: 1280px;
+}
+
+#container2 {
+    min-height: 100%;
+    position: relative;
+    overflow: hidden;
+    height: auto !important;
+}
+
+#main2 {
+    background-color: #FFFFFF;
+    width: 1170px;
+    margin: 0 auto;
+    /*margin-bottom:60px;*/
+    padding-bottom: 32767px !important;
+    margin-bottom: -32697px !important;
+}
+
+#main2 #title2 {
+    background-color: #3E3A39;
+    padding: 77px 38px 9px 45px;
+}
+
+#title2 span {
+    color: #FFFFFF;
+    font-size: 18px;
+    padding-left: 10px;
+    letter-spacing: 0.1em;
+}
+
+#footer2 {
+    height: 60px;
+    position: absolute;
+    color: #ffffff;
+    text-align: right;
+    line-height: 2em;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0px 2px 0px;
+    clear: both;
+    background-color: #3E3A39;
+    /*border-bottom: #FFFFFF 4px double;*/
+    margin-bottom: 0;
+    margin-top: 60px;
+}
+
+div.inputForm th {
+    border-right: none;
+}
+
+div.inputForm td {
+    padding: 8px 18px !important;
+}
+
+.inputForm label {
+    font-weight: bold;
+    margin: 0 0;
+}
+
+.inputForm input[type="text"],
+.inputForm textarea,
+.inputForm select {
+    /*height: 35px;*/
+    padding: 5px 15px;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #2c3e50;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #9FA2A5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+tr.inputForm input[type="text"],
+tr.inputForm textarea,
+tr.inputForm select {
+    margin-left: 4px;
+}
+
+.inputForm .btnDiv {
+    text-align: center;
+}
+
+.inputForm .btnDiv input[type="image"],
+.inputForm .btnDiv img{
+    vertical-align: middle;
+    margin: 0px 30px;
+}
+
+.inputForm span.error-message {
+    color: red;
+    margin-left: 20px;
+}
+
+.inputForm div.error-message {
+    color: red;
+    padding-top: 10px;
+}
+
+a[data-lightbox] img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.pager span {
+    color: #fff;
+}

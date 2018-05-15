@@ -1,0 +1,1 @@
+ALTER TABLE `monitoring_logs` ADD `monitor_interval` INT NULL DEFAULT NULL AFTER `unit_id`;

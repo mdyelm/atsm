@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `unit_id` VARCHAR(255) NOT NULL AFTER `organization_id`;

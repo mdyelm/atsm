@@ -1,0 +1,1 @@
+ALTER TABLE `licenses` CHANGE `del_flag` `del_flag` INT( 1 ) NULL DEFAULT '0';

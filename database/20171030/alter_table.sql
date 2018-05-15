@@ -1,0 +1,1 @@
+ALTER TABLE  `monitoring_logs` CHANGE  `user_id`  `unit_id` INT( 11 ) NULL DEFAULT NULL ;

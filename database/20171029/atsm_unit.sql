@@ -1,0 +1,1 @@
+﻿ALTER TABLE `units` ADD `authen_code` VARCHAR(255) NULL AFTER `diff_pix`;
